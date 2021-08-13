@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## React project template with typescript using Webpack
 
 ### How to run
@@ -27,3 +28,10 @@ npm run start
 ```
 
 Server should now be running on localhost:8080
+=======
+## React project template with typescript using Babel and Webpack.
+
+Developers can now bootsrap react projects that use typescript using this repo. Works similar to create-react-app.
+
+Created using [Babel](https://babeljs.io/) and [Webpack](https://webpack.js.org/).
+>>>>>>> fffe099b28b84e132e19d4a17caf7f8db94d6ca3
